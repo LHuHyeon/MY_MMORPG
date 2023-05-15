@@ -1312,6 +1312,7 @@ MonoBehaviour:
   _lockTarget: {fileID: 0}
   _destPos: {x: 0, y: 0, z: 0}
   _state: 2
+  id: 0
   scanRange: 8
   attackRange: 1.2
 --- !u!114 &5290744207487859864
