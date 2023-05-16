@@ -26867,6 +26867,7 @@ MonoBehaviour:
   - {fileID: 1471568143869458278}
   - {fileID: 985071179}
   - {fileID: 7940462711565262629}
+  currentEffect: {fileID: 0}
 --- !u!114 &5775974890459665618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69408,6 +69409,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 589045983178315016}
     m_Modifications:
+    - target: {fileID: 641071393210386245, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].time
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 871712419052162916, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1899449085742528951, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].time
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 3751948613731455500, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -69455,6 +69468,58 @@ PrefabInstance:
     - target: {fileID: 3754730457406814350, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
       propertyPath: m_Name
       value: SkillEffect_107
+      objectReference: {fileID: 0}
+    - target: {fileID: 3754730457406814350, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3936620595295690212, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3953718034025657352, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3953864646958964502, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3954088350480264522, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4268318012713616765, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].time
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4391423657337559198, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694746847577358197, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7025947019425738442, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7026688018952698204, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7026688018952698204, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].time
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7532414471912806122, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8470374500765606334, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
+      propertyPath: lengthInSec
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f30cd0841221d142a675b7bcf44ee01, type: 3}
