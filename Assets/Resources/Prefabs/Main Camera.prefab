@@ -98,5 +98,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _mode: 0
-  _delta: {x: 0, y: 9.5, z: -8}
+  _delta: {x: 0, y: 10, z: -8.5}
   _player: {fileID: 0}
