@@ -69472,7 +69472,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2225451346667898440, guid: 2769ad21a01d352438481039dfeeeb56, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 2769ad21a01d352438481039dfeeeb56, type: 3}
 --- !u!4 &4561571208478819 stripped
 Transform:
@@ -70373,7 +70374,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2200094536555381516, guid: 406230b29b28b7c48bdbe8b4878845ac, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 406230b29b28b7c48bdbe8b4878845ac, type: 3}
 --- !u!4 &1598777394526815409 stripped
 Transform:
@@ -70447,7 +70449,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sword4
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: -4529662920220230059, guid: 1441418dd7de6774f86097b75a61f462, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 1441418dd7de6774f86097b75a61f462, type: 3}
 --- !u!4 &4853183270403474 stripped
 Transform:
@@ -70521,7 +70524,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sword3
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8906351396833258724, guid: b9ee8d9c81c32fb4d8459cdaeba6a90b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: b9ee8d9c81c32fb4d8459cdaeba6a90b, type: 3}
 --- !u!4 &644109899468197800 stripped
 Transform:

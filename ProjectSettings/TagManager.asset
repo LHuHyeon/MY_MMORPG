@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Monster
   - Equipment
+  - Item
   layers:
   - Default
   - TransparentFX

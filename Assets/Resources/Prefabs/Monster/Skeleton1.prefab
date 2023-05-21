@@ -1191,7 +1191,7 @@ GameObject:
   - component: {fileID: 8599604713457453591}
   - component: {fileID: 5290744207487859864}
   m_Layer: 8
-  m_Name: Skeleton_01
+  m_Name: Skeleton1
   m_TagString: Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1312,9 +1312,9 @@ MonoBehaviour:
   _lockTarget: {fileID: 0}
   _destPos: {x: 0, y: 0, z: 0}
   _state: 2
-  id: 0
   scanRange: 8
   attackRange: 1.2
+  hpBarUI: {fileID: 0}
 --- !u!114 &5290744207487859864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1327,14 +1327,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51917c7f27556a469f73718686e9910, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _id: 0
+  _name: Monster
   _level: 0
   _hp: 0
   _maxHp: 0
   _mp: 0
   _maxMp: 0
   _attack: 0
-  _deadExp: 0
+  _dropExp: 0
+  _dropGold: 0
   _movespeed: 0
+  _dropItemId: 0
 --- !u!1 &3382854457328695358
 GameObject:
   m_ObjectHideFlags: 0
