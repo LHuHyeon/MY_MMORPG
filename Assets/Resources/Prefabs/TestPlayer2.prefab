@@ -69472,6 +69472,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 9165198098750835254, guid: 2769ad21a01d352438481039dfeeeb56, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2225451346667898440, guid: 2769ad21a01d352438481039dfeeeb56, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 2769ad21a01d352438481039dfeeeb56, type: 3}
@@ -70314,6 +70318,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 160632574}
     m_Modifications:
+    - target: {fileID: -7610468171838501584, guid: 406230b29b28b7c48bdbe8b4878845ac, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5631056171419397416, guid: 406230b29b28b7c48bdbe8b4878845ac, type: 3}
       propertyPath: m_Name
       value: Sword1
@@ -70389,6 +70397,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 160632574}
     m_Modifications:
+    - target: {fileID: -1063236962553760853, guid: 1441418dd7de6774f86097b75a61f462, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942683266759006061, guid: 1441418dd7de6774f86097b75a61f462, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6966786203393236887, guid: 1441418dd7de6774f86097b75a61f462, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -70464,6 +70480,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 160632574}
     m_Modifications:
+    - target: {fileID: 4051641174493544309, guid: b9ee8d9c81c32fb4d8459cdaeba6a90b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284680789097545776, guid: b9ee8d9c81c32fb4d8459cdaeba6a90b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7346178065932005018, guid: b9ee8d9c81c32fb4d8459cdaeba6a90b, type: 3}
       propertyPath: m_RootOrder
       value: 2
