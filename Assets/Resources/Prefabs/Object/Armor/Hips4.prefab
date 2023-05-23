@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2236985330775945083}
   - component: {fileID: -8575350159278518402}
   - component: {fileID: 5904816465564873613}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Hips4
   m_TagString: Item
   m_Icon: {fileID: 0}

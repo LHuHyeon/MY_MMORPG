@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1867761537131538354}
   - component: {fileID: -6361375354400549436}
   - component: {fileID: 1730833787318802732}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Helm1
   m_TagString: Item
   m_Icon: {fileID: 0}

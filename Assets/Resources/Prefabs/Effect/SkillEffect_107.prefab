@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1068620339140993274}
   - component: {fileID: 871712419052162916}
   - component: {fileID: 873448740177512382}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Flash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41,7 +41,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1070912773383451444}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -4893,7 +4893,7 @@ GameObject:
   - component: {fileID: 4017526289746881779}
   - component: {fileID: 4268318012713616765}
   - component: {fileID: 335892366862263936}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Distortion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5855,7 +5855,7 @@ ParticleSystem:
     m_BurstCount: 1
     m_Bursts:
     - serializedVersion: 2
-      time: 0.8
+      time: 1.1
       countCurve:
         serializedVersion: 2
         minMaxState: 0
@@ -9779,7 +9779,7 @@ GameObject:
   - component: {fileID: 8274313863074330321}
   - component: {fileID: 2517294408913602040}
   - component: {fileID: 3309240862454886555}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DarkSmoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14665,7 +14665,7 @@ GameObject:
   - component: {fileID: 8418119744749696691}
   - component: {fileID: 1899449085742528951}
   - component: {fileID: 6262443989532982625}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DarkSparksEnd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15627,7 +15627,7 @@ ParticleSystem:
     m_BurstCount: 1
     m_Bursts:
     - serializedVersion: 2
-      time: 0.8
+      time: 1.3
       countCurve:
         serializedVersion: 2
         minMaxState: 0
@@ -19542,7 +19542,7 @@ GameObject:
   - component: {fileID: 170189935767925351}
   - component: {fileID: 8470374500765606334}
   - component: {fileID: 8614433259347329746}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GroundWind
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19572,7 +19572,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3459780465400542788}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 1
@@ -24460,7 +24460,7 @@ GameObject:
   - component: {fileID: 3752016233485976464}
   - component: {fileID: 3953864646958964502}
   - component: {fileID: 3952559477332412388}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ShockWave
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24490,7 +24490,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3754361384332830714}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 1
@@ -29379,7 +29379,7 @@ GameObject:
   - component: {fileID: 3954088350480264522}
   - component: {fileID: 3952132457104225674}
   - component: {fileID: 3863644624669933498}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29409,7 +29409,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3754621354698570248}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 1
@@ -34512,8 +34512,8 @@ GameObject:
   - component: {fileID: 3751948613731455500}
   - component: {fileID: 3936620595295690212}
   - component: {fileID: 3953468257118059684}
-  - component: {fileID: 8011573796188553283}
-  m_Layer: 0
+  - component: {fileID: 7941873868291676093}
+  m_Layer: 7
   m_Name: SkillEffect_107
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34527,7 +34527,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3754730457406814350}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -34557,7 +34557,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3754730457406814350}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 1
@@ -39443,7 +39443,7 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
---- !u!114 &8011573796188553283
+--- !u!114 &7941873868291676093
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -39452,7 +39452,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3754730457406814350}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d651d24979624d42a6a76d911da5c2d, type: 3}
+  m_Script: {fileID: 11500000, guid: 67dd68c727e825c448bd09d49a1661ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   id: 107
@@ -39468,7 +39468,7 @@ GameObject:
   - component: {fileID: 3751841681671920614}
   - component: {fileID: 3953718034025657352}
   - component: {fileID: 3952697347869478420}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Sparks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39498,7 +39498,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3755160964827375326}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 3
@@ -44665,7 +44665,7 @@ GameObject:
   - component: {fileID: 2631590408714662698}
   - component: {fileID: 641071393210386245}
   - component: {fileID: 1633755164616638199}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DarkSmokeEnd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45627,7 +45627,7 @@ ParticleSystem:
     m_BurstCount: 1
     m_Bursts:
     - serializedVersion: 2
-      time: 0.8
+      time: 1.3
       countCurve:
         serializedVersion: 2
         minMaxState: 0
@@ -49551,7 +49551,7 @@ GameObject:
   - component: {fileID: 7156280579238794236}
   - component: {fileID: 7025947019425738442}
   - component: {fileID: 7026311429412388166}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Flare
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49581,7 +49581,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7152883514089660752}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 1
@@ -54491,7 +54491,7 @@ GameObject:
   - component: {fileID: 7156162033281203966}
   - component: {fileID: 7026688018952698204}
   - component: {fileID: 7026877818229958652}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Slashes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54521,7 +54521,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7153206961644673250}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 3
@@ -55453,7 +55453,7 @@ ParticleSystem:
     m_BurstCount: 1
     m_Bursts:
     - serializedVersion: 2
-      time: 0.8
+      time: 1.3
       countCurve:
         serializedVersion: 2
         minMaxState: 0
@@ -59395,7 +59395,7 @@ GameObject:
   - component: {fileID: 7654332064308347364}
   - component: {fileID: 7532414471912806122}
   - component: {fileID: 7562402962284948638}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SparksCenter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59425,7 +59425,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7653002406650623200}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 3
@@ -64277,7 +64277,7 @@ GameObject:
   - component: {fileID: 4612161554920041107}
   - component: {fileID: 4391423657337559198}
   - component: {fileID: 5607203977128559245}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DarkSparks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64307,7 +64307,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8723592125995388874}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -69163,7 +69163,7 @@ GameObject:
   - component: {fileID: 3566896448678943634}
   - component: {fileID: 6694746847577358197}
   - component: {fileID: 4607326414966693239}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69193,7 +69193,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8960407319914299894}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 1

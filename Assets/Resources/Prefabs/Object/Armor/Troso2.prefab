@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1206185159093676637}
   - component: {fileID: 9062894687275773210}
   - component: {fileID: -3037563381498572991}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Troso2
   m_TagString: Item
   m_Icon: {fileID: 0}

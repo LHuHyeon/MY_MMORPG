@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2911527433749136196}
   - component: {fileID: 3475680126059160567}
   - component: {fileID: -2755896280189126420}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Boots3
   m_TagString: Item
   m_Icon: {fileID: 0}

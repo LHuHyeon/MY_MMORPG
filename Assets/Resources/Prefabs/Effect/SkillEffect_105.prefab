@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6325496778859842780}
   - component: {fileID: 6126873378222665786}
   - component: {fileID: 6125713476110681476}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Fire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4893,7 +4893,7 @@ GameObject:
   - component: {fileID: 6329386214890184452}
   - component: {fileID: 6126429211473882316}
   - component: {fileID: 6126224590779059168}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SparksLong
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9793,7 +9793,7 @@ GameObject:
   - component: {fileID: 6329253118822603832}
   - component: {fileID: 6126343911624086386}
   - component: {fileID: 6125528467083155250}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Sword
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14720,7 +14720,7 @@ GameObject:
   - component: {fileID: 6325750273039282258}
   - component: {fileID: 6126641996741669318}
   - component: {fileID: 6125349785879950972}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Smoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19611,7 +19611,7 @@ GameObject:
   - component: {fileID: 6325504733904025808}
   - component: {fileID: 6126696010158437766}
   - component: {fileID: 6125668859430699532}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Sparks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24511,8 +24511,8 @@ GameObject:
   - component: {fileID: 6325866065199995992}
   - component: {fileID: 6127056137657666286}
   - component: {fileID: 6126242646844682674}
-  - component: {fileID: -6329623423954722705}
-  m_Layer: 0
+  - component: {fileID: 5755052444463830609}
+  m_Layer: 7
   m_Name: SkillEffect_105
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24526,7 +24526,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6323648259900930854}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -29406,7 +29406,7 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
---- !u!114 &-6329623423954722705
+--- !u!114 &5755052444463830609
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -29415,11 +29415,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 6323648259900930854}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d651d24979624d42a6a76d911da5c2d, type: 3}
+  m_Script: {fileID: 11500000, guid: 67dd68c727e825c448bd09d49a1661ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   id: 105
-  disableDelayTime: 3
+  disableDelayTime: 4
 --- !u!1 &6323708328257682684
 GameObject:
   m_ObjectHideFlags: 0
@@ -29431,7 +29431,7 @@ GameObject:
   - component: {fileID: 6325352604820935162}
   - component: {fileID: 6158872233230610574}
   - component: {fileID: 6126285949102263998}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Flash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34313,7 +34313,7 @@ GameObject:
   - component: {fileID: 6329704799355554280}
   - component: {fileID: 6126714420348600722}
   - component: {fileID: 6125500868137708002}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Glow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39195,7 +39195,7 @@ GameObject:
   - component: {fileID: 6329643958771872038}
   - component: {fileID: 6127107659224337780}
   - component: {fileID: 6126220556847589920}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SmokeTrails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44077,7 +44077,7 @@ GameObject:
   - component: {fileID: 6329541302977776830}
   - component: {fileID: 6126743683043408746}
   - component: {fileID: 6125708136421915188}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SmallStones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48968,13 +48968,13 @@ GameObject:
   - component: {fileID: 6329733285534102228}
   - component: {fileID: 6158700499370023536}
   - component: {fileID: 6125782281389285186}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Distortion(Delete for Mobile)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6329733285534102228
 Transform:
   m_ObjectHideFlags: 0
@@ -53850,7 +53850,7 @@ GameObject:
   - component: {fileID: 6329457831578801016}
   - component: {fileID: 6126918227555477166}
   - component: {fileID: 6126172461486467146}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GroundCrack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58732,7 +58732,7 @@ GameObject:
   - component: {fileID: 6329325743357556588}
   - component: {fileID: 6127139614725628344}
   - component: {fileID: 6125421671088261566}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cut
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63614,7 +63614,7 @@ GameObject:
   - component: {fileID: 6325864436083527296}
   - component: {fileID: 6127037912419420240}
   - component: {fileID: 6126082195478114514}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Trail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68496,13 +68496,13 @@ GameObject:
   - component: {fileID: 6329792650873872058}
   - component: {fileID: 6126914179738825738}
   - component: {fileID: 6126171248843231490}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SwordSparks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6329792650873872058
 Transform:
   m_ObjectHideFlags: 0

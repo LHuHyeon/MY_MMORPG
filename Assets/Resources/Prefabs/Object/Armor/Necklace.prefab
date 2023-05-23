@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2962984932683655765}
   - component: {fileID: 3356336641207487923}
   - component: {fileID: 3356336641207487920}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Necklace
   m_TagString: Item
   m_Icon: {fileID: 0}
@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 2409029064682412813}
   - component: {fileID: 700794042281009735}
   - component: {fileID: 4079137935050245843}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: default
   m_TagString: Untagged
   m_Icon: {fileID: 0}

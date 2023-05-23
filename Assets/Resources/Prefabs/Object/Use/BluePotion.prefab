@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7904245960180704678}
   - component: {fileID: 7904245960179908792}
   - component: {fileID: 7904245960178821622}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Full_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 7904245960178473282}
   - component: {fileID: 7904245960180861713}
   - component: {fileID: 7904245960180861712}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: BluePotion
   m_TagString: Item
   m_Icon: {fileID: 0}

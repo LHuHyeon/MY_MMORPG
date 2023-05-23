@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 861340209044116361}
   - component: {fileID: 659127031396144239}
   - component: {fileID: 659716753224917791}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cut2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4902,8 +4902,8 @@ GameObject:
   - component: {fileID: 861761562172857223}
   - component: {fileID: 658985078341172941}
   - component: {fileID: 657944921809876477}
-  - component: {fileID: 6946333600621615717}
-  m_Layer: 0
+  - component: {fileID: 5556922482431827994}
+  m_Layer: 7
   m_Name: SkillEffect_106
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4917,7 +4917,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 855831418781309723}
-  m_LocalRotation: {x: -0, y: -0.42261827, z: -0, w: 0.9063079}
+  m_LocalRotation: {x: 0, y: -0.42261827, z: 0, w: 0.9063079}
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9794,7 +9794,7 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
---- !u!114 &6946333600621615717
+--- !u!114 &5556922482431827994
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9803,7 +9803,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 855831418781309723}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d651d24979624d42a6a76d911da5c2d, type: 3}
+  m_Script: {fileID: 11500000, guid: 67dd68c727e825c448bd09d49a1661ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   id: 106
@@ -9819,7 +9819,7 @@ GameObject:
   - component: {fileID: 861510191687629243}
   - component: {fileID: 659117809442260109}
   - component: {fileID: 659492251923191553}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Flare
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14759,7 +14759,7 @@ GameObject:
   - component: {fileID: 858976227501058273}
   - component: {fileID: 659043581322128221}
   - component: {fileID: 657799920237507789}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Darkness
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19641,7 +19641,7 @@ GameObject:
   - component: {fileID: 858950164178229161}
   - component: {fileID: 659753294397715833}
   - component: {fileID: 659403413784281113}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Wind
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24532,7 +24532,7 @@ GameObject:
   - component: {fileID: 858691151238892975}
   - component: {fileID: 659587169315439153}
   - component: {fileID: 659257644050289867}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: CutBlack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29423,7 +29423,7 @@ GameObject:
   - component: {fileID: 858665200080771695}
   - component: {fileID: 658906711173195487}
   - component: {fileID: 658472977745579423}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FlashCore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34305,7 +34305,7 @@ GameObject:
   - component: {fileID: 858866763364406457}
   - component: {fileID: 659577471226499867}
   - component: {fileID: 657799961069374907}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Slashes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39212,7 +39212,7 @@ GameObject:
   - component: {fileID: 861640607984914401}
   - component: {fileID: 658871046425859159}
   - component: {fileID: 658380087538979463}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Wind
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44130,7 +44130,7 @@ GameObject:
   - component: {fileID: 858551476798854607}
   - component: {fileID: 659060659047752931}
   - component: {fileID: 659718978448994463}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Distortion(Delete for Mobile)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49012,7 +49012,7 @@ GameObject:
   - component: {fileID: 861816055816610213}
   - component: {fileID: 673934799768403341}
   - component: {fileID: 659269628740309845}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Sparks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53903,7 +53903,7 @@ GameObject:
   - component: {fileID: 861854591795339103}
   - component: {fileID: 658799433476778585}
   - component: {fileID: 659260655594741015}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cut
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58794,7 +58794,7 @@ GameObject:
   - component: {fileID: 858705901202745223}
   - component: {fileID: 659191423097674193}
   - component: {fileID: 657528672881563829}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: CutBlack2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63685,7 +63685,7 @@ GameObject:
   - component: {fileID: 861519363001089749}
   - component: {fileID: 658999006851301293}
   - component: {fileID: 659254518519867837}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Sparks
   m_TagString: Untagged
   m_Icon: {fileID: 0}

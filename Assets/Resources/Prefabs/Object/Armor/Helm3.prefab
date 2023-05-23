@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6255005063472561640}
   - component: {fileID: 171544724127423002}
   - component: {fileID: -4309315199704097836}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Helm3
   m_TagString: Item
   m_Icon: {fileID: 0}

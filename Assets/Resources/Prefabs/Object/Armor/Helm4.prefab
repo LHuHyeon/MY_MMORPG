@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4281049397506009976}
   - component: {fileID: -8334712760010491570}
   - component: {fileID: 160090609749748934}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Helm4
   m_TagString: Item
   m_Icon: {fileID: 0}
@@ -125,6 +125,10 @@ PrefabInstance:
     - target: {fileID: 1077565296228258, guid: 4d4a3f4da7913b044bc80b4ae955c024, type: 3}
       propertyPath: m_Name
       value: HelmGGongch4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1077565296228258, guid: 4d4a3f4da7913b044bc80b4ae955c024, type: 3}
+      propertyPath: m_Layer
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 4793947447326588, guid: 4d4a3f4da7913b044bc80b4ae955c024, type: 3}
       propertyPath: m_RootOrder

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5447974141343756772}
   - component: {fileID: 5274978139125864800}
   - component: {fileID: 5282225174283444676}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Sparks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4902,7 +4902,7 @@ GameObject:
   - component: {fileID: 5441507298935661186}
   - component: {fileID: 5275097713272586530}
   - component: {fileID: 5282631576210715576}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Slash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9793,7 +9793,7 @@ GameObject:
   - component: {fileID: 5447845777214216300}
   - component: {fileID: 5281099671639519620}
   - component: {fileID: 5282413473747627030}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Slashes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14684,14 +14684,14 @@ GameObject:
   - component: {fileID: 5441834577984378172}
   - component: {fileID: 5281553896988501678}
   - component: {fileID: 5282366505456695306}
-  - component: {fileID: 2690686142660372541}
-  m_Layer: 0
+  - component: {fileID: 3578656969599238503}
+  m_Layer: 7
   m_Name: SkillEffect_103
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5441834577984378172
 Transform:
   m_ObjectHideFlags: 0
@@ -14699,7 +14699,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5444693616488975132}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.03297901, y: 2.2047336, z: 5.774153}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -19578,7 +19578,7 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
---- !u!114 &2690686142660372541
+--- !u!114 &3578656969599238503
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -19587,7 +19587,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5444693616488975132}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d651d24979624d42a6a76d911da5c2d, type: 3}
+  m_Script: {fileID: 11500000, guid: 67dd68c727e825c448bd09d49a1661ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   id: 103
@@ -19603,13 +19603,13 @@ GameObject:
   - component: {fileID: 5441815910596699368}
   - component: {fileID: 5280993547353591428}
   - component: {fileID: 5280657144162907446}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Distortion(Delete for Mobile)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5441815910596699368
 Transform:
   m_ObjectHideFlags: 0

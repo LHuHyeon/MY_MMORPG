@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 809039007501990833}
   - component: {fileID: -1425969447302724930}
   - component: {fileID: -3718333411073656669}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Boots4
   m_TagString: Item
   m_Icon: {fileID: 0}

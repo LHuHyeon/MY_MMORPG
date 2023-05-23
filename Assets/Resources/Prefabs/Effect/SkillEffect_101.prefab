@@ -43997,7 +43997,7 @@ GameObject:
   - component: {fileID: 1642744354596222769}
   - component: {fileID: 1469022249129417465}
   - component: {fileID: 1450106618794640375}
-  - component: {fileID: 5719297495371117849}
+  - component: {fileID: 5582678423736961844}
   m_Layer: 7
   m_Name: SkillEffect_101
   m_TagString: Untagged
@@ -48815,7 +48815,7 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
---- !u!114 &5719297495371117849
+--- !u!114 &5582678423736961844
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -48824,10 +48824,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1646337643141565553}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d651d24979624d42a6a76d911da5c2d, type: 3}
+  m_Script: {fileID: 11500000, guid: 67dd68c727e825c448bd09d49a1661ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   id: 101
+  disableDelayTime: 0
 --- !u!1 &1646339629160288181
 GameObject:
   m_ObjectHideFlags: 0
