@@ -33549,6 +33549,7 @@ MonoBehaviour:
   - {fileID: 6221354510494266125}
   - {fileID: 8466665379874517417}
   currentEffect: {fileID: 0}
+  waeponObjList: {fileID: 160632573}
   itemMaxRadius: 5
 --- !u!114 &1965987783481845194
 MonoBehaviour:
@@ -69415,7 +69416,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1047934818865228343, guid: 2769ad21a01d352438481039dfeeeb56, type: 3}
       propertyPath: m_Name
-      value: Sword2
+      value: Sword_2002
       objectReference: {fileID: 0}
     - target: {fileID: 1047934818865228343, guid: 2769ad21a01d352438481039dfeeeb56, type: 3}
       propertyPath: m_Layer
@@ -69643,6 +69644,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1763724099}
     m_Modifications:
+    - target: {fileID: 5755052444463830609, guid: b226440b21bf91d4da24070c5b623412, type: 3}
+      propertyPath: disableDelayTime
+      value: 2.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6323648259900930854, guid: b226440b21bf91d4da24070c5b623412, type: 3}
       propertyPath: m_Name
       value: SkillEffect_105
@@ -70014,7 +70019,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5631056171419397416, guid: 406230b29b28b7c48bdbe8b4878845ac, type: 3}
       propertyPath: m_Name
-      value: Sword1
+      value: Sword_2001
       objectReference: {fileID: 0}
     - target: {fileID: 5631056171419397416, guid: 406230b29b28b7c48bdbe8b4878845ac, type: 3}
       propertyPath: m_Layer
@@ -70158,7 +70163,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6970464913606259647, guid: 1441418dd7de6774f86097b75a61f462, type: 3}
       propertyPath: m_Name
-      value: Sword4
+      value: Sword_2004
       objectReference: {fileID: 0}
     - target: {fileID: 6970464913606259647, guid: 1441418dd7de6774f86097b75a61f462, type: 3}
       propertyPath: m_Layer
@@ -70246,7 +70251,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7347769694333071940, guid: b9ee8d9c81c32fb4d8459cdaeba6a90b, type: 3}
       propertyPath: m_Name
-      value: Sword3
+      value: Sword_2003
       objectReference: {fileID: 0}
     - target: {fileID: 7347769694333071940, guid: b9ee8d9c81c32fb4d8459cdaeba6a90b, type: 3}
       propertyPath: m_Layer
