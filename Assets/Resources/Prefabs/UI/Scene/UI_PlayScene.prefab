@@ -1656,6 +1656,7 @@ GameObject:
   - component: {fileID: 803542144}
   - component: {fileID: 803542146}
   - component: {fileID: 803542145}
+  - component: {fileID: 5290825948895830717}
   m_Layer: 5
   m_Name: SkillSlot (2)
   m_TagString: Untagged
@@ -1722,6 +1723,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &5290825948895830717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 803542143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f15dc0c9379e041a3af03429e57c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotType: 4
+  icon: {fileID: 566001317}
+  keySkill: 3
 --- !u!1 &816208184
 GameObject:
   m_ObjectHideFlags: 0
@@ -2069,6 +2085,7 @@ GameObject:
   - component: {fileID: 984241937}
   - component: {fileID: 984241939}
   - component: {fileID: 984241938}
+  - component: {fileID: 1094489673047949496}
   m_Layer: 5
   m_Name: SkillSlot (3)
   m_TagString: Untagged
@@ -2135,6 +2152,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &1094489673047949496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 984241936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f15dc0c9379e041a3af03429e57c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotType: 4
+  icon: {fileID: 64478330}
+  keySkill: 5
 --- !u!1 &986179926
 GameObject:
   m_ObjectHideFlags: 0
@@ -2146,6 +2178,7 @@ GameObject:
   - component: {fileID: 986179927}
   - component: {fileID: 986179929}
   - component: {fileID: 986179928}
+  - component: {fileID: 1170807792945951425}
   m_Layer: 5
   m_Name: SkillSlot
   m_TagString: Untagged
@@ -2212,6 +2245,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &1170807792945951425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 986179926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f15dc0c9379e041a3af03429e57c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotType: 4
+  icon: {fileID: 1686332904}
+  keySkill: 1
 --- !u!1 &997056325
 GameObject:
   m_ObjectHideFlags: 0
@@ -2659,6 +2707,7 @@ GameObject:
   - component: {fileID: 1201224131}
   - component: {fileID: 1201224133}
   - component: {fileID: 1201224132}
+  - component: {fileID: 2542825744606015316}
   m_Layer: 5
   m_Name: SkillSlot (4)
   m_TagString: Untagged
@@ -2725,6 +2774,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &2542825744606015316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1201224130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f15dc0c9379e041a3af03429e57c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotType: 4
+  icon: {fileID: 131308503}
+  keySkill: 6
 --- !u!1 &1259431862
 GameObject:
   m_ObjectHideFlags: 0
@@ -2813,6 +2877,7 @@ GameObject:
   - component: {fileID: 1291757406}
   - component: {fileID: 1291757408}
   - component: {fileID: 1291757407}
+  - component: {fileID: 6633188541268821100}
   m_Layer: 5
   m_Name: SkillSlot (5)
   m_TagString: Untagged
@@ -2879,6 +2944,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &6633188541268821100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291757405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f15dc0c9379e041a3af03429e57c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotType: 4
+  icon: {fileID: 1488160576}
+  keySkill: 7
 --- !u!1 &1326470182
 GameObject:
   m_ObjectHideFlags: 0
@@ -4458,6 +4538,7 @@ GameObject:
   - component: {fileID: 2056711790}
   - component: {fileID: 2056711792}
   - component: {fileID: 2056711791}
+  - component: {fileID: 8699405775629762960}
   m_Layer: 5
   m_Name: SkillSlot (1)
   m_TagString: Untagged
@@ -4524,6 +4605,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &8699405775629762960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2056711789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f15dc0c9379e041a3af03429e57c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotType: 4
+  icon: {fileID: 309078505}
+  keySkill: 2
 --- !u!1 &2074097649
 GameObject:
   m_ObjectHideFlags: 0
@@ -4785,6 +4881,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e74a3c98623806041b3313f9f0be6680, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _inventory: {fileID: 0}
+  _equipment: {fileID: 0}
+  _skill: {fileID: 0}
+  _slotTip: {fileID: 0}
 --- !u!1 &4129090895522151604
 GameObject:
   m_ObjectHideFlags: 0
@@ -4796,6 +4896,7 @@ GameObject:
   - component: {fileID: 4695133824311172912}
   - component: {fileID: 590148640437550241}
   - component: {fileID: 5757272195589169885}
+  - component: {fileID: 7409712250638174857}
   m_Layer: 5
   m_Name: ultSkillSlot
   m_TagString: Untagged
@@ -4862,6 +4963,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &7409712250638174857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4129090895522151604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f15dc0c9379e041a3af03429e57c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotType: 4
+  icon: {fileID: 4433106902706030560}
+  keySkill: 4
 --- !u!1 &5443139050878765091
 GameObject:
   m_ObjectHideFlags: 0

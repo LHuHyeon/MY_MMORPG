@@ -190,5 +190,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f58c6834931b33941b8124360c5b5c07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dragInvenSlot: {fileID: 0}
-  itemImage: {fileID: 6243954630429513470}
+  dragSlotItem: {fileID: 0}
+  icon: {fileID: 6243954630429513470}
