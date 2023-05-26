@@ -302,5 +302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c20541e4c5595d4b9fab3a9171b330c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 1683632779276903339}
+  slotType: 1
+  icon: {fileID: 1683632779276903339}
   itemCountText: {fileID: 1683632778908379612}
+  itemCount: 0

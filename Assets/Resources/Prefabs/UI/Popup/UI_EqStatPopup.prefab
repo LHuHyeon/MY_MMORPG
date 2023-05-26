@@ -362,7 +362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotType: 3
-  itemImage: {fileID: 6046289742811395837}
+  icon: {fileID: 6046289742811395837}
   armorType: 6
 --- !u!1 &50462734
 GameObject:
@@ -1171,7 +1171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotType: 3
-  itemImage: {fileID: 5869776261689175286}
+  icon: {fileID: 5869776261689175286}
   armorType: 4
 --- !u!1 &570768190
 GameObject:
@@ -1341,7 +1341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotType: 3
-  itemImage: {fileID: 658010590091516175}
+  icon: {fileID: 658010590091516175}
   armorType: 1
 --- !u!1 &656193693
 GameObject:
@@ -1435,7 +1435,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotType: 3
-  itemImage: {fileID: 2379354057598621848}
+  icon: {fileID: 2379354057598621848}
   armorType: 7
 --- !u!1 &688474283
 GameObject:
@@ -2171,7 +2171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotType: 3
-  itemImage: {fileID: 6340927502729308918}
+  icon: {fileID: 6340927502729308918}
   armorType: 5
 --- !u!1 &984114001
 GameObject:
@@ -3033,7 +3033,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotType: 3
-  itemImage: {fileID: 8723412772256621509}
+  icon: {fileID: 8723412772256621509}
   armorType: 3
 --- !u!1 &1302548628
 GameObject:
@@ -3870,7 +3870,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotType: 3
-  itemImage: {fileID: 7615110963725752035}
+  icon: {fileID: 7615110963725752035}
   weaponType: 1
 --- !u!1 &1831415403
 GameObject:
@@ -4373,7 +4373,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotType: 3
-  itemImage: {fileID: 6474603744914195595}
+  icon: {fileID: 6474603744914195595}
   armorType: 2
 --- !u!1 &42498931068319708
 GameObject:

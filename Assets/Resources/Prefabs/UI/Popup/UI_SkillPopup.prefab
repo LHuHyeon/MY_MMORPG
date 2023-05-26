@@ -388,7 +388,7 @@ MonoBehaviour:
   slotType: 4
   icon: {fileID: 7985190261957203691}
   skillId: 107
-  skillLock: 0
+  skillLock: 1
 --- !u!1 &245041420820609671
 GameObject:
   m_ObjectHideFlags: 0
@@ -1425,7 +1425,7 @@ MonoBehaviour:
   slotType: 4
   icon: {fileID: 5951563107215678815}
   skillId: 103
-  skillLock: 0
+  skillLock: 1
 --- !u!1 &3145636759061477185
 GameObject:
   m_ObjectHideFlags: 0
@@ -2391,7 +2391,7 @@ MonoBehaviour:
   slotType: 4
   icon: {fileID: 4030782300712229238}
   skillId: 102
-  skillLock: 0
+  skillLock: 1
 --- !u!1 &4819294646329049571
 GameObject:
   m_ObjectHideFlags: 0
@@ -2622,7 +2622,7 @@ MonoBehaviour:
   slotType: 4
   icon: {fileID: 7461181361322512276}
   skillId: 105
-  skillLock: 0
+  skillLock: 1
 --- !u!1 &5881370698420398909
 GameObject:
   m_ObjectHideFlags: 0
@@ -2795,7 +2795,7 @@ MonoBehaviour:
   slotType: 4
   icon: {fileID: 5657365925762951877}
   skillId: 106
-  skillLock: 0
+  skillLock: 1
 --- !u!1 &6103029297118617321
 GameObject:
   m_ObjectHideFlags: 0
@@ -3102,7 +3102,7 @@ MonoBehaviour:
   slotType: 4
   icon: {fileID: 3777256192273731728}
   skillId: 101
-  skillLock: 0
+  skillLock: 1
 --- !u!1 &7272375451990111164
 GameObject:
   m_ObjectHideFlags: 0
@@ -3350,7 +3350,7 @@ MonoBehaviour:
   slotType: 4
   icon: {fileID: 994974038414628290}
   skillId: 104
-  skillLock: 0
+  skillLock: 1
 --- !u!1 &8963123332806357846
 GameObject:
   m_ObjectHideFlags: 0
