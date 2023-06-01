@@ -2909,6 +2909,7 @@ GameObject:
   - component: {fileID: 5936012027666367854}
   - component: {fileID: 4317718477781834086}
   - component: {fileID: 1836747964181495230}
+  - component: {fileID: -2884352856826929885}
   m_Layer: 5
   m_Name: UI_QuestPopup
   m_TagString: Untagged
@@ -3010,6 +3011,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c34ffcf25fde00e45b5249be77f9192e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-2884352856826929885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9006658127320774162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb2f2549bad9e5740a6193a68cba89a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsUsing: 0
 --- !u!1001 &963111214897480721
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -3440,6 +3440,7 @@ GameObject:
   - component: {fileID: 8977358565892859397}
   - component: {fileID: 8977358565892859398}
   - component: {fileID: 8977358565892859394}
+  - component: {fileID: -8713678736081409450}
   m_Layer: 5
   m_Name: UI_SkillPopup
   m_TagString: Untagged
@@ -3541,6 +3542,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6a612088ff185241b239686f991b111, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-8713678736081409450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8977358565892859399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb2f2549bad9e5740a6193a68cba89a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsUsing: 0
 --- !u!1 &9085167592950328105
 GameObject:
   m_ObjectHideFlags: 0
