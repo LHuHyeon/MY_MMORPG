@@ -3109,6 +3109,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7110714669020872722}
   - component: {fileID: 7202822419467328384}
+  - component: {fileID: 95986724543829575}
   - component: {fileID: 7106842659083337984}
   m_Layer: 11
   m_Name: UsedShopNpc
@@ -3165,6 +3166,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!65 &95986724543829575
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7108613828476267816}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 2, z: 1}
+  m_Center: {x: -0, y: 1, z: 0}
 --- !u!114 &7106842659083337984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3180,11 +3194,10 @@ MonoBehaviour:
   _lockTarget: {fileID: 0}
   _destPos: {x: 0, y: 0, z: 0}
   _state: 2
-  shopType: 1
   npcName: "\uB8E8\uBE44\uC544"
-  shopBuyId: 1
   scanRange: 3
-  nameBarUI: {fileID: 0}
+  shopType: 1
+  shopBuyId: 1
 --- !u!1 &7108643821037662690
 GameObject:
   m_ObjectHideFlags: 0

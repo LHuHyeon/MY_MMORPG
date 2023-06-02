@@ -2625,6 +2625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 352411526276210432}
   - component: {fileID: 412544830735896594}
+  - component: {fileID: 95442213906992994}
   - component: {fileID: 354292773114857478}
   m_Layer: 11
   m_Name: ArmorShopNpc
@@ -2678,6 +2679,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!65 &95442213906992994
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 355701543077914822}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 2, z: 1}
+  m_Center: {x: -0, y: 1, z: 0}
 --- !u!114 &354292773114857478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2693,11 +2707,10 @@ MonoBehaviour:
   _lockTarget: {fileID: 0}
   _destPos: {x: 0, y: 0, z: 0}
   _state: 2
-  shopType: 2
   npcName: "\uC54C\uB809\uC2A4"
-  shopBuyId: 101
   scanRange: 3
-  nameBarUI: {fileID: 0}
+  shopType: 2
+  shopBuyId: 101
 --- !u!1 &355706601379533972
 GameObject:
   m_ObjectHideFlags: 0
