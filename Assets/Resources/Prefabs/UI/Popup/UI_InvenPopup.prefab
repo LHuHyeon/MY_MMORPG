@@ -5860,14 +5860,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 18154760}
     m_Modifications:
-    - target: {fileID: 1683632778908379614, guid: 17d3f90b66007c245826c964c9a6e0e9, type: 3}
-      propertyPath: m_Name
-      value: ItemCountText
-      objectReference: {fileID: 0}
-    - target: {fileID: 1683632779276903333, guid: 17d3f90b66007c245826c964c9a6e0e9, type: 3}
-      propertyPath: m_Name
-      value: ItemImage
-      objectReference: {fileID: 0}
     - target: {fileID: 1683632780036575123, guid: 17d3f90b66007c245826c964c9a6e0e9, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
