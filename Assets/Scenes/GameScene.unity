@@ -31622,6 +31622,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArmorShopNpc
       objectReference: {fileID: 0}
+    - target: {fileID: 412544830735896594, guid: b722d6aa01cdfb749b90e8f2caac02d3, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1c2fbb09e8f7ba64b8e225a7c0e21efa, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b722d6aa01cdfb749b90e8f2caac02d3, type: 3}
 --- !u!1001 &4983281423312710047
@@ -31736,5 +31740,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7202822419467328384, guid: ecbfc734474a81e468294bc642afbd91, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 9847cd4d06a06c24e98edcb595cd2ee5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecbfc734474a81e468294bc642afbd91, type: 3}

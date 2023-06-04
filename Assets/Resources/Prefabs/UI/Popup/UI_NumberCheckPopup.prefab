@@ -1023,6 +1023,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numberSlider: {fileID: 2369359783520700107}
+  _itemCountText: {fileID: 2369359783298229288}
 --- !u!114 &2369359782674330380
 MonoBehaviour:
   m_ObjectHideFlags: 0
