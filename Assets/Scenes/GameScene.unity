@@ -31858,8 +31858,8 @@ MonoBehaviour:
   npcName: "\uC5D8\uB9AC\uC544"
   scanRange: 3
   questType: 2
-  currentQuestId: 0
-  currentTalkId: 0
+  questId: 1
+  talkId: 1
 --- !u!65 &8342930521385191503
 BoxCollider:
   m_ObjectHideFlags: 0

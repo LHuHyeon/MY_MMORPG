@@ -168,6 +168,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9865eb0431ce8643992cf61b240cbf9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  itemImage: {fileID: 4496778783131620077}
+  itemCountText: {fileID: 4496778782781351833}
 --- !u!1 &4496778782781351835
 GameObject:
   m_ObjectHideFlags: 0
@@ -204,7 +206,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: -6, y: 5}
-  m_SizeDelta: {x: 20, y: 15}
+  m_SizeDelta: {x: 30, y: 15}
   m_Pivot: {x: 1, y: 0}
 --- !u!222 &4496778782781351832
 CanvasRenderer:
@@ -261,8 +263,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 18
+  m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
