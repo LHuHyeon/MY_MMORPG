@@ -880,7 +880,7 @@ GameObject:
   - component: {fileID: 1977192494}
   - component: {fileID: 1977192493}
   m_Layer: 5
-  m_Name: QuestSceneCountText
+  m_Name: QuestNoticeCountText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1742,7 +1742,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.000018181836}
+  m_AnchoredPosition: {x: 0, y: 0.000101350095}
   m_SizeDelta: {x: 0, y: 440}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &2435383211755594993
@@ -2374,7 +2374,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 5121670981794828498}
   m_Direction: 2
   m_Value: 0
-  m_Size: 1
+  m_Size: 0.9999861
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3021,6 +3021,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c34ffcf25fde00e45b5249be77f9192e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  questNoticeList: []
 --- !u!114 &-2884352856826929885
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3143,6 +3144,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6144488139491397701}
     m_Modifications:
+    - target: {fileID: 259870758, guid: e13176be443fd404fa12852051b6a983, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1017050123, guid: e13176be443fd404fa12852051b6a983, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3211507080126481349, guid: e13176be443fd404fa12852051b6a983, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
