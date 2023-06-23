@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7362817875411160080}
   - component: {fileID: 7362817875411160078}
   - component: {fileID: 7362817875411160081}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 7362817876420076797}
   - component: {fileID: 7362817876420076795}
   - component: {fileID: 7362817876420076794}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: NameText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -225,7 +225,7 @@ GameObject:
   - component: {fileID: 7362817877308204734}
   - component: {fileID: 7362817877308204737}
   - component: {fileID: 20906859881841911}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: UI_NameBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}

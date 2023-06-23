@@ -1748,8 +1748,8 @@ MonoBehaviour:
   npcName: "\uC5D8\uB9AC\uC544"
   scanRange: 3
   questType: 2
-  questId: 1
-  talkId: 1
+  questId: 010000000200000003000000
+  talkId: 010000000200000003000000
 --- !u!1 &2005198226693350167
 GameObject:
   m_ObjectHideFlags: 0
