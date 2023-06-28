@@ -863,6 +863,8 @@ MonoBehaviour:
   monsterType: 0
   scanRange: 8
   attackRange: 1.2
+  spawnRange: 16
+  spawnPos: {x: 0, y: 0, z: 0}
   hpBarUI: {fileID: 0}
 --- !u!114 &4391162698930175818
 MonoBehaviour:

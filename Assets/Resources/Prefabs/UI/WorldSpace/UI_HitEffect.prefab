@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 824061988019696460}
   - component: {fileID: 824061988019696462}
   - component: {fileID: 824061988019696463}
-  m_Layer: 5
+  m_Layer: 6
   m_Name: HitText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60,7 +60,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -69,7 +69,7 @@ MonoBehaviour:
   m_text: 30
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f1037ad79dccaca4f8b1770ab8f83cdf, type: 2}
-  m_sharedMaterial: {fileID: 5388586654382983166, guid: f1037ad79dccaca4f8b1770ab8f83cdf, type: 2}
+  m_sharedMaterial: {fileID: -7474687436222331064, guid: f1037ad79dccaca4f8b1770ab8f83cdf, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -149,7 +149,7 @@ GameObject:
   - component: {fileID: 824061989503801308}
   - component: {fileID: 824061989503801304}
   - component: {fileID: 5893750176331184875}
-  m_Layer: 5
+  m_Layer: 6
   m_Name: UI_HitEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -233,11 +233,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
+  m_IgnoreReversedGraphics: 0
   m_BlockingObjects: 0
   m_BlockingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 0
 --- !u!114 &824061989503801304
 MonoBehaviour:
   m_ObjectHideFlags: 0

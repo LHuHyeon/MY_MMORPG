@@ -676,6 +676,8 @@ MonoBehaviour:
   monsterType: 1
   scanRange: 10
   attackRange: 2.5
+  spawnRange: 20
+  spawnPos: {x: 0, y: 0, z: 0}
   hpBarUI: {fileID: 0}
   skillRangeScale: {x: 0, y: 0, z: 0}
   skillRangePos: {x: 0, y: 0, z: 0}

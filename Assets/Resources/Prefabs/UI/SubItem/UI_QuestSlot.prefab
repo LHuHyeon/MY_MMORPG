@@ -369,7 +369,7 @@ MonoBehaviour:
   slotText: {fileID: 3211507081248486336}
   sceneButton: {fileID: 543035907}
   okButtonIcon: {fileID: 259870758}
-  isNotice: 0
+  isNotice: 1
 --- !u!1 &3211507081248486338
 GameObject:
   m_ObjectHideFlags: 0
@@ -439,7 +439,7 @@ MonoBehaviour:
   m_text: "\uBAAC\uC2A4\uD130 \uC0AC\uB0E5\uAFBC"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f1037ad79dccaca4f8b1770ab8f83cdf, type: 2}
-  m_sharedMaterial: {fileID: 5388586654382983166, guid: f1037ad79dccaca4f8b1770ab8f83cdf, type: 2}
+  m_sharedMaterial: {fileID: -7474687436222331064, guid: f1037ad79dccaca4f8b1770ab8f83cdf, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
