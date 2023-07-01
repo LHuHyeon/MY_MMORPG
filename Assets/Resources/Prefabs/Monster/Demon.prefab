@@ -1875,7 +1875,7 @@ MonoBehaviour:
   monsterType: 2
   scanRange: 10
   attackRange: 2
-  spawnRange: 20
+  spawnRange: 50
   spawnPos: {x: 0, y: 0, z: 0}
   hpBarUI: {fileID: 0}
   missilePos1: {fileID: 735116955}
