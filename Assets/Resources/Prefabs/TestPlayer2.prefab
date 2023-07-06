@@ -144,7 +144,7 @@ GameObject:
   - component: {fileID: 2281253168036755647}
   - component: {fileID: 5304481165124399162}
   m_Layer: 7
-  m_Name: BaseHips3
+  m_Name: DefualtHips3
   m_TagString: Equipment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -234,7 +234,7 @@ GameObject:
   - component: {fileID: 6423937093235733942}
   - component: {fileID: 6146985246065525754}
   m_Layer: 7
-  m_Name: BaseTroso2
+  m_Name: DefualtTorso2
   m_TagString: Equipment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

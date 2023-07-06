@@ -3411,7 +3411,7 @@ MonoBehaviour:
   - {fileID: 888123765623654402}
   - {fileID: 888154385382536380}
   - {fileID: 888565508764875176}
-  trosoList:
+  torsoList:
   - {fileID: 888599249390354904}
   - {fileID: 888060626885349152}
   - {fileID: 888563407727076454}
