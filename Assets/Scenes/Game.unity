@@ -122,7 +122,7 @@ NavMeshSettings:
     preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 23800000, guid: 0f84cf47e9728b04fa252889ae3ec8dc, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: 6096fc87e989ac6448cb625476205f48, type: 2}
 --- !u!1001 &2748263
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2355,8 +2355,8 @@ MonoBehaviour:
   _spawnMonsterNumber: {fileID: 3382831096565339470, guid: 7be2c64da8eb17a41b4a0ad1f1c2846f, type: 3}
   _monsterCount: 0
   _keepMonsterCount: 4
-  _spawnPos: {x: 105, y: 0, z: -15}
-  _spawnRedius: 5
+  _spawnPos: {x: 100, y: 0, z: -20}
+  _spawnRedius: 4
   _spawnTime: 8
 --- !u!1001 &96271898
 PrefabInstance:
@@ -5445,7 +5445,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 254661337}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 100.2, y: 0, z: -21.4}
+  m_LocalPosition: {x: 100, y: 0, z: -20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8263,8 +8263,8 @@ MonoBehaviour:
   _spawnMonsterNumber: {fileID: 4392504900013725762, guid: 1092e74758249e148b32b042da9cfc20, type: 3}
   _monsterCount: 0
   _keepMonsterCount: 3
-  _spawnPos: {x: 105, y: 0, z: -15}
-  _spawnRedius: 5
+  _spawnPos: {x: 100, y: 0, z: -20}
+  _spawnRedius: 4
   _spawnTime: 8
 --- !u!1001 &374728363
 PrefabInstance:
@@ -8279,7 +8279,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1921589778919192, guid: df9f30afad26d794683a8951d22e8fa1, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 4856333322215248, guid: df9f30afad26d794683a8951d22e8fa1, type: 3}
       propertyPath: m_RootOrder
@@ -14204,27 +14204,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1004371427666424, guid: 7d914c544d792d946b045590b6f42adb, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 1572898335726558, guid: 7d914c544d792d946b045590b6f42adb, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 1690311243125700, guid: 7d914c544d792d946b045590b6f42adb, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 1716605862054490, guid: 7d914c544d792d946b045590b6f42adb, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 1829514358592020, guid: 7d914c544d792d946b045590b6f42adb, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 1993673811101540, guid: 7d914c544d792d946b045590b6f42adb, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 4610130343512680, guid: 7d914c544d792d946b045590b6f42adb, type: 3}
       propertyPath: m_RootOrder
@@ -15426,7 +15426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1921589778919192, guid: df9f30afad26d794683a8951d22e8fa1, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4856333322215248, guid: df9f30afad26d794683a8951d22e8fa1, type: 3}
       propertyPath: m_RootOrder
@@ -23890,7 +23890,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1921589778919192, guid: df9f30afad26d794683a8951d22e8fa1, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 4856333322215248, guid: df9f30afad26d794683a8951d22e8fa1, type: 3}
       propertyPath: m_RootOrder
@@ -28984,7 +28984,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 585b5ad7c8fa5d84b87f0e54807d63ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneType: 5
+  sceneType: 4
   portalObject: {fileID: 2140773644}
 --- !u!65 &1385096377
 BoxCollider:
@@ -33588,7 +33588,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1871484375698904, guid: 570818cc2c8471342b425b512b9c6ebe, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4830331558213554, guid: 570818cc2c8471342b425b512b9c6ebe, type: 3}
       propertyPath: m_RootOrder
@@ -36734,7 +36734,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1921589778919192, guid: df9f30afad26d794683a8951d22e8fa1, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4856333322215248, guid: df9f30afad26d794683a8951d22e8fa1, type: 3}
       propertyPath: m_RootOrder
