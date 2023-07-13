@@ -396,7 +396,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa39dd49f038cc541ac9e7f5ead1788d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  popupType: 0
   loadSlider: {fileID: 2531999187329315281}
+  tipText: {fileID: 2531999189273939542}
 --- !u!1 &2531999188101158043
 GameObject:
   m_ObjectHideFlags: 0
